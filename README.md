@@ -11,7 +11,7 @@ A dataset in progress containing images of trash, which spans the following clas
 - plastic bottle
 - unknown
 
-For each class of trash, there are four environments, in which the photographs were taken: 
+For each class of trash there are four environments in which the photographs were taken: 
 
 - beach
 - sea 
