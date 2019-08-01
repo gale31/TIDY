@@ -25,3 +25,5 @@ TIDY is still in progress: ideally, I would continue taking, classifying and upl
 TIDY's ultimate goal is to provide open data to make trash classification easier. That way we can work on automated recycling systems etc. 
 
 for similar content, see <a href="http://www.github.com/garythung/trashnet"> this dataset by Gary Thung and Mindy Yang </a>
+
+<meta name="google-site-verification" content="RQfRCGdQbNoUY4_STCGgJp5634iZveRJ94QwBWMMq0I" />
